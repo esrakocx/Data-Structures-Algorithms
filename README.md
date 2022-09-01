@@ -43,3 +43,55 @@ _Worst Case Time Complexity_ -> **O(n^2)**
 [2,3,4,5,7,8,9,15,6]
 
 [2,3,4,5,6,7,8,9,15] --> Done!
+
+
+# Merge-Sort
+
+### [16,21,11,8,12,22]
+### _1- Write the stages of the above given sequence according to the merge sort type._
+
+[16,21,11]       |      [8,12,22]
+    
+[16,21] [11]     |      [8,12] [22]
+
+[16] [21] [11]   |      [8] [12] [22]
+
+[16,21] [11]     |      [8,12] [22]
+
+[11,16,21]       |      [8,12,22]
+
+
+### **[8,11,12,16,21,22]**
+
+
+### **_2- Merge Sort: Big-O Notation_**
+
+_Best Case Time Complexity_ -> **O(nlog(n))**
+
+_Average Case Time Complexity_ -> **O(nlog(n))**
+
+_Worst Case Time Complexity_ -> **O(nlogn(n))**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
