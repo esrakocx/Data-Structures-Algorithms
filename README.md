@@ -1,4 +1,4 @@
-# Insertion-Sort
+# Insertion Sort
 ## www.patika.dev Data Structures and Algorithms Project
 
 ### [22,27,16,2,18,6]
@@ -45,7 +45,7 @@ _Worst Case Time Complexity_ -> **O(n^2)**
 [2,3,4,5,6,7,8,9,15] --> Done!
 
 
-# Merge-Sort
+# Merge Sort
 
 ### [16,21,11,8,12,22]
 ### _1- Write the stages of the above given sequence according to the merge sort type._
@@ -74,8 +74,13 @@ _Worst Case Time Complexity_ -> **O(nlogn(n))**
 
 
 
+# Binary Search Tree
 
+### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
 
+### Write the Binary-Search-Tree stages of the above given sequence.
+
+![binary-tree](https://user-images.githubusercontent.com/90002015/188019123-49528c5e-8d0b-4cb9-b759-4636f5b5b2ce.png)
 
 
 
