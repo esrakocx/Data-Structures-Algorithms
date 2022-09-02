@@ -61,7 +61,7 @@ _Worst Case Time Complexity_ -> **O(n^2)**
 [11,16,21]       |      [8,12,22]
 
 
-### **[8,11,12,16,21,22]**
+### **[8,11,12,16,21,22] --> Done!**
 
 
 ### **_2- Merge Sort: Big-O Notation_**
