@@ -80,7 +80,7 @@ _Worst Case Time Complexity_ -> **O(nlogn(n))**
 
 ### Write the Binary-Search-Tree stages of the above given sequence.
 
-![binary-tree](https://user-images.githubusercontent.com/90002015/188019123-49528c5e-8d0b-4cb9-b759-4636f5b5b2ce.png)
+![binary-tree](https://user-images.githubusercontent.com/90002015/188082000-cc144a48-61bb-44b6-9730-c37f3a4f3e2b.png)
 
 
 
